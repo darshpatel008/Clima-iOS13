@@ -25,3 +25,4 @@ Run the app on an iOS simulator or device, allowing location permissions for rea
 The Clima app demonstrates how to work with location services, APIs, and real-time data display in Swift. It's an excellent project for learning about CoreLocation, networking, and building a useful utility app with UIKit.
 
 
+https://github.com/user-attachments/assets/8b010b25-3096-4cef-bacd-95752c514844
